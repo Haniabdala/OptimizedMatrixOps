@@ -1,4 +1,4 @@
-# MatrixOptimizer
+# Optimized Matrix Operations
 
 This repository features optimized C programs for various **matrix manipulation operations**, including **LU Decomposition**, **Matrix Multiplication**, and **Matrix Inversion** using multiple algorithms. The goal of this project is to optimize and improve the performance of matrix operations, which are critical in fields like **scientific computing**, **machine learning**, and **data analysis**.
 
